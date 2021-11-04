@@ -1,0 +1,26 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>C:\Users\Hade\Documents\KiCad\SmartIrrigationController\SmartIrrigationController.sch</h1>
+    <p>7/29/2020 7:05:16 AM</p>
+    <p>Eeschema (5.1.6)-1</p>
+    <p><b>Component Count:</b>10</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>ANT1</td><td>1</td><td>ANT-868-SP</td><td>ANT-868-SP:ANT-868-SP</td><td>SmartIrrigationController:ANT_868MHZ_SPLATCH</td><td></td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>Raspberry_Pi_2_3</td><td>Connector:Raspberry_Pi_2_3</td><td>Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical</td><td>expansion header for Raspberry Pi 2 & 3</td><td></td></tr>
+    <tr><td>J2</td><td>1</td><td>Conn_02x20_Odd_Even</td><td>Connector_Generic:Conn_02x20_Odd_Even</td><td>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</td><td>Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>R1, R2, R3</td><td>3</td><td>R</td><td>Device:R</td><td>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</td><td>Resistor</td><td></td></tr>
+    <tr><td>U1, U2</td><td>2</td><td>74LVC1G18</td><td>74xGxx:74LVC1G18</td><td>74LVC1G18:74LVC1G18</td><td>Single Demultiplexer, Low-Voltage CMOS</td><td></td></tr>
+    <tr><td>U3</td><td>1</td><td>NL-SW-GPRS</td><td>NL-SW-GPRS:NL-SW-GPRS</td><td>SmartIrrigationController:NIMBELINK_NL-SW-LTE-GELS3-C</td><td></td><td></td></tr>
+    <tr><td>U4</td><td>1</td><td>MTXDOT-EU1-A00-1</td><td>MTXDOT-EU1-A00-1:MTXDOT-EU1-A00-1</td><td>SmartIrrigationController:XCVR_MTXDOT-EU1-A00-1</td><td></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

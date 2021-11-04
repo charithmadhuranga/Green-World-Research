@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 74LVC1G18)(type KiCad)(uri ${KIPRJMOD}/74LVC1G18.pretty)(options "")(descr ""))
+  (lib (name SmartIrrigationController)(type KiCad)(uri ${KIPRJMOD}/component-libraries/footprint/SmartIrrigationController.pretty)(options "")(descr ""))
+)
